@@ -6,6 +6,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logo=Javascript&logoColor=FC)
+![Vue.Js](https://img.shields.io/badge/Vue.js-222222?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Typescript](https://img.shields.io/badge/-Typescript-222222?style=for-the-badge&logo=Typescript&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=for-the-badge&logo=CSS3&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=Figma&logoColor=)
