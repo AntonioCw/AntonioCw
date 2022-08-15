@@ -1,5 +1,13 @@
 ### Hi there 👋, My name is Antonio Abreu
 
+<div align="center">
+  <a href="https://antonioabreudev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-AntonioAbreu-black?style=for-the-badge" ></a>
+  <a href="https://www.linkedin.com/in/antonio-abreu-36406a160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-abreu-36406a160/"></a>
+</div>
+
+<br>
+
+
 ## 💻 Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
