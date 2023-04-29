@@ -21,6 +21,7 @@
 ![Angular](https://img.shields.io/badge/Angular-222222?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/Laravel-222222?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Docker](https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 📊 Github Status
 
