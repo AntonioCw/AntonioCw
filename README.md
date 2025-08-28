@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://antonioabreudev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-AntonioAbreu-black?style=for-the-badge" ></a>
-  <a href="https://www.linkedin.com/in/antonio-abreu-36406a160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-abreu-36406a160/"></a>
+  <a href="https://www.linkedin.com/in/antonio-abreu-36406a160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-abreu/"></a>
 </div>
 
 <br>
